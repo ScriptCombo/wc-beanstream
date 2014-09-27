@@ -2,7 +2,6 @@ wc-beanstream
 =============
 
 WooCommerce Beanstream Payment Gateway
-
 <br />
 This extension allows you to accept payments in WooCommerce via Beanstream. 
 <br />
