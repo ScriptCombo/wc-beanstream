@@ -24,5 +24,3 @@ Do you like this plugin?
 Please reward it with a little donation.
 donate to this link http://goo.gl/9f3SlZ
 
-### Support or Contact
-ping me: support@scriptcombo.com
